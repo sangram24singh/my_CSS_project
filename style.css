@@ -1,0 +1,204 @@
+body{
+    border: 1px solid grey;
+}
+.align{
+    position: absolute;
+    left: 130px;
+    top: 35px; 
+    height: 50px;
+
+}
+.font{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.color{
+    color: rgb(11, 156, 240);
+}
+.backcolor{
+    background-color: lightgray;
+    height: 900px;
+    width: 100%;
+    margin-top: 100px;
+}
+.plus{
+    background-color: rgb(15, 157, 245);
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgb(15, 160, 247);
+    border-radius: 50%;
+    color: white;
+    margin-top: 25px;
+    z-index: 1;
+    position: absolute;
+    left: -33%;
+}
+/* .button{
+    position: relative;
+    left: 75%; */
+.button{
+    position: absolute;
+    left: 1090px;
+    width: 200;
+}
+.para1{
+    display: inline-block;
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    display: inline-block;
+    font-size: 18px;
+    width: 200px;
+    position: absolute;
+    top: 37px;
+    left: 45px;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: #FFFFFF;
+    border: 1px solid lightslategray;
+    border-radius: 4px ;
+    margin: 35px;
+    line-height: 34px;
+}
+.box:hover{
+    box-shadow: 8px 9px 2px gray;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    height: 850px;
+    width: 1400px;
+    margin-left: 195px;
+    margin-top: 40px;
+
+}
+.bot1{
+    margin-top: -160px;
+}
+.mycolor{
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(26, 146, 227);
+}
+.check1{
+    position: relative;
+    left: 20px;
+    transform: scale(2);
+    
+}
+.mygray{
+    text-decoration: line-through;
+    color: gray;
+    font-size: 20px;
+}
+.my{
+    font-size:20px;
+
+}
+.page{
+    background-color: #FFFFFF;
+    width: 550px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    top: 194px;
+    left: 30%;
+    z-index: 1;
+}
+#addtask{
+    font-style: bold;
+    font-size: 24px;
+    font-weight: 600;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    display: inline;
+}
+#bot{
+    position: relative;
+    left: 365px;
+    font-size: 20px;
+    top: 2px
+}
+#input{
+ 
+    border: 2px solid rgb(109, 108, 108);
+    width: 510px;
+    height: 22px;
+    margin-left: 10px;
+    background-color: rgb(158, 158, 158);
+    font-size: 22px;
+    padding-left: 15px;
+}
+#button{
+    color: white;
+    background-color: #007cff;
+    width: 148px;
+    height: 32px;
+    bottom: 20px;
+    position: absolute;
+    font-size: 20px;
+    right: 18px;
+    border-radius: 5px blue;
+}
+.blur{
+    /* filter: brightness(0.5); */
+    background-color: rgb(242, 239, 239);
+    opacity: 0.4;
+}
+#a{
+    position: absolute;
+}
+#mywidth{
+    width: 300px;
+}
+.mytask{
+    position: absolute;
+    top: -135px;
+    display: inline;
+    width: 169px;
+}
+.myalign{
+    position: absolute;
+    left: 637px;
+    top: 200px;
+    width: 385px
+}
+.mybot{
+    position: absolute;
+    left: -152px;
+}
+.mybot1{
+    position: absolute;
+    left: -105px;
+}
+.arrow{
+    background-color: black;
+    width: 30px;
+    color: white;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.myblack{
+    color: black;
+    font-family: 'Libre Franklin', sans-serif;;
+}
+.aa{
+    position: absolute;
+    left: 700px;
+    top: 140px;
+}
+#abc{
+    filter: brightness(0.4);
+}
+.abcd{
+    position: absolute;
+    left: 614px;
+    top: 175px;
+}
